@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\HWITPPARK\HWITPPARK\bin\Debug\HWITPPARK.exe.config
+C:\Users\mort8\source\repos\HWITPPARK\HWITPPARK\bin\Debug\HWITPPARK.exe
+C:\Users\mort8\source\repos\HWITPPARK\HWITPPARK\bin\Debug\HWITPPARK.pdb
+C:\Users\mort8\source\repos\HWITPPARK\HWITPPARK\obj\Debug\HWITPPARK.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\HWITPPARK\HWITPPARK\obj\Debug\HWITPPARK.exe
+C:\Users\mort8\source\repos\HWITPPARK\HWITPPARK\obj\Debug\HWITPPARK.pdb
